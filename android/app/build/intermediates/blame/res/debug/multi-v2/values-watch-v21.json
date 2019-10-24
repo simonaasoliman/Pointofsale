@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/simona/Desktop/Pointofsale/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/simona/.gradle/caches/transforms-2/files-2.1/b0d796fa8a1280f608081c454f291cab/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
